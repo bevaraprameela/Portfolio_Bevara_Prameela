@@ -1,0 +1,8 @@
+
+export default function Footer() {
+  return (
+    <footer className="py-6 text-center text-gray-600 dark:text-gray-400">
+      © 2025 Your Name. Built with React & Tailwind.
+    </footer>
+  );
+}
