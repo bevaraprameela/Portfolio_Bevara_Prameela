@@ -3,23 +3,23 @@ import React from "react";
 import { motion } from "framer-motion";
 
 // Lucide Icons
-import {
-  Code2,
-  Globe,
-  Server,
-  Database,
-  Wrench,
-  GitBranch,
-  PenTool,
-  Binary,
-  Cpu,
-  BookOpen,
-  Users,
-  Clock,
-  Repeat,
-  Sigma,
-  Layers,
-} from "lucide-react";
+// import {
+  // Code2,
+  // Globe,
+  // Server,
+  // Database,
+  // Wrench,
+  // GitBranch,
+  // PenTool,
+  // Binary,
+  // Cpu,
+  // BookOpen,
+  // Users,
+  // Clock,
+  // Repeat,
+  // Sigma,
+  // Layers,
+// } from "lucide-react";
 
 // ---------- SKILLS WITH ICONS ---------- //
 
